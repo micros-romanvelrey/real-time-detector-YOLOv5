@@ -13,6 +13,8 @@ Este repositorio contiene mi tesis de licenciatura titulada **“Sistema de reco
 
 El sistema fue entrenado con un conjunto de datos personalizado (figuras de cruces y círculos), y se implementó en un entorno controlado para evaluar su rendimiento en tareas relacionadas con la navegación de drones y escenarios de búsqueda y rescate.
 
+Documentación y presentación en el siguiente [enlace](https://docs.google.com/presentation/d/10gBKMkqKXhmzJu8UpRxuJdPlnc7VjbEl/edit?usp=drive_link&ouid=115683596064209883965&rtpof=true&sd=true)
+
 ---
 
 ## 🧠 Temas clave
